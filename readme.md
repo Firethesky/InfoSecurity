@@ -1,2 +1,3 @@
 hsy的公钥	hsyrian_0xDDB4CC11_public.asc
 test
+update email
